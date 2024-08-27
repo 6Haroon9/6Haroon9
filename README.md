@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning SQL,Power BI,Excel and Python
 - 📫 How to reach me .
-- Linkedin : https://www.linkedin.com/in/m-haroon-awan-173603216/
+- Linkedin : www.linkedin.com/in/muhammad-haroon-a436a928
 - Whatsapp : +923100055169
 
 <!---
